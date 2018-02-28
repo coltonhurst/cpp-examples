@@ -30,6 +30,5 @@ int main()
 	std::cout << "Size of float:\t\t" << sizeof(float) << std::endl;
 	// You can't output sizeof(void), as it's an "incomplete type"
 	
-	
 	return 0;
 }
