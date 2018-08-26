@@ -1,3 +1,7 @@
+/*
+	An example using std::cin to take in input.
+	Then, it says hello!
+*/
 
 #include <iostream>
 #include <string>
