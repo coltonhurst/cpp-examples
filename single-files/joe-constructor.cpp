@@ -14,7 +14,7 @@ class Joe
 public:
 	Joe();
 	Joe(int newAge);
-	int getJoesAge();
+	int getJoesAge() const;
 private:
 	int age;
 };
@@ -28,7 +28,7 @@ Joe::Joe(int newAge) {
 	age = newAge;
 }
 
-int Joe::getJoesAge() {
+int Joe::getJoesAge() const {
 	return age;
 }
 
