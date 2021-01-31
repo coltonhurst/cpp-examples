@@ -18,10 +18,10 @@
 int main() {
 
 	int number = 4;
-	number = number << 1;	// 1 arithmetic shift left, multiplies by 2
+	number = number << 1;	// One arithmetic shift left, multiplies by 2
 	std::cout << number << std::endl;
 
-	number = number >> 2;	// 2 arithmetic shifts right, divides by 4
+	number = number >> 2;	// Two arithmetic shifts right, divides by 4
 	std::cout << number << std::endl;
 
 	return 0;
