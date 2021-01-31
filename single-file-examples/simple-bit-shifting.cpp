@@ -1,5 +1,5 @@
 /*
-	A simple example of bit shifting.
+    A simple example of bit shifting.
 
     We start with 4, which in binary is: 0000 0100
 
